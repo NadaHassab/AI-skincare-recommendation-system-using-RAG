@@ -3,9 +3,7 @@ numpy==1.26.4
 pandas==2.2.3
 matplotlib==3.10.0
 Pillow==11.1.0
-fpdf==1.7.2
 google-generativeai==0.2.0
 ipywidgets
 faiss-cpu==1.7.4
 sentence-transformers==2.2.2
-langchain_community==0.0.10
